@@ -1,18 +1,10 @@
-# 👋 Hello!
-
-Welcome to my GitHub profile! If you're reading this, you're probably checking to see if I'm GitHub-friendly. Well, good news – I am! 😄
-
+👋 Hello!
 ## 🚀 About Me
 
 I started studying JS in May 2022. Prior to that, I was a professional online poker player, where the skills of constant learning and improvement were part of my daily routine. 
 Since May, it has been an exciting and challenging journey, and I can't wait to share what I've accomplished since then.
 
 ## 💼 My Projects
-
-Feel free to explore the repositories, and if something catches your eye, don't hesitate to dig in. Contributions, issues, and feedback are always welcome!
-1.calculator :D
-2.worlde
-3.poker charts
 
 ## 🌱 Open for Collaboration
 
